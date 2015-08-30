@@ -1,0 +1,4 @@
+include 'project-a'
+include 'project-b'
+
+rootProject.name = 'updateimpact-gradle'
